@@ -1,0 +1,19 @@
+/* 
+    Author     : JORGE
+*/
+/*html { 
+  background: url(Images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+
+header{
+    color:blue;
+    background-color: gainsboro;
+    font-size: 20px;
+    text-align: left;
+    padding: 5px 0px 15px 0px;
+}
+
